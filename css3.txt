@@ -1,0 +1,17 @@
+<html>
+<head>
+<style>
+       body{
+                background-color: lightblue
+}
+h1,h2,p{
+     color:  red;
+     text-align: center;
+}
+</style>
+</head>
+<Body>
+<h1>bing bong bing bong</h1>
+<h2>gagag GAGAG GAGAG</h2>
+<p>sigma rule 128 Karna hai to kar varna mat kar</p>
+</body></html>

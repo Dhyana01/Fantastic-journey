@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body{
+background-color:cyan;
+margin: 0;
+font-family:cordana;
+}
+
+header{
+background:orange;
+color:white;
+text-align:center;
+padding:30px;
+}
+
+nav{
+background:#333;
+text-align:center;
+padding:10px;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:0 15px;
+}
+
+nav a:hover{
+color:yellow;
+}
+
+</style>
+</head>
+<body>
+<header>
+<h1>Spring festival</h1>
+<P>Celebrate joy,music and togetherness</p>
+</header>
+
+<nav>
+<a href="#home">HOME</A>
+<a href="#about">ABOUT</A>
+<a href="#schedule">SCHEDULE</A>
+<a href="#gallery">GALLERY</A>
+<a href="#contact">CONTACT</A>
+<!
+
+
+     Home section->
+    <section id="home">
+<h2>Welocome to spring festival</h2>
+<p>Join us for a grand celebration filled with music, dance, food, and fun activities.<p>
+</section>
+
+<!
+
+
+     About section->
+    <section id="about">
+<h2>About the festival</h2>
+<p>The Spring Festival is an annual event bringing families and friends together to celebrate culture,art, and tradition.<p>
+</section>
+<!
+
+     Schedule section->
+    <section id="schedule">
+<h2>Event Schedule</h2>
+<div class="schedule-container">
+<div class="schedule>
+<h3> Day 1</H3>
+<p>The Spring Festival is an annual event bringing families and friends together to celebrate culture,art, and tradition.<p>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

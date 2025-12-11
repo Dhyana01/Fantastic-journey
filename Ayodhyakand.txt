@@ -1,0 +1,8 @@
+<html>
+<body bgcolor="cyan">
+<h1 bgcolor="white">Bal kand</h1>
+<img src="https://th.bing.com/th/id/OIP.X197hC4R52O7Y6617w6PoQHaHa?w=171&h=180&c=7&r=0&o=7&pid=1.7&rm=3"height="500"width="500">
+<p>Ayodhya Kandam is the second book of the Ramayana that narrates the crucial events surrounding Lord Rama's exile, which ultimately sets the stage for the epic's central conflicts and moral lessons.
+Overview of Ayodhya Kandam
+Ayodhya Kandam describes the period when Rama, the prince of Ayodhya and the incarnation of Lord Vishnu, is sent into exile for 14 years by his father, King Dasharatha, due to a palace intrigue. This chapter is pivotal as it introduces themes of duty (dharma), sacrifice, and devotion.</p>
+</body></htmL>

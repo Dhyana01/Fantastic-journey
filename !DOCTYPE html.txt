@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html><head><title>Pincode Validation</title></head>
+<body style="color:blue;background-color:cyan"><form name="form 1">
+<h1 align="center">
+Enter Pincode value:-<input type="text" name="t1"><br><br>
+<input type="button" value="Submit value" onClick="validate0"></h1>
+<script type="text/javascript">
+function validat()
+{ var pincode;pincode=form1.t1.value;
+if(pincode.length==())
+{
+alert("please check,enter value");
+         form1.t1.focus
